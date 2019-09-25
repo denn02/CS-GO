@@ -1,0 +1,38 @@
+
+"settings"
+{
+	// Maximum weapon slots supported in the wheel is 10
+
+	// the left most edge of slot 0 starts on the wheel here and goes around clockwise
+	// angle 0 is north, angle 180 is south
+	starting_angle		324
+
+	// 7 slots split equally is a wedge size of 51.42855
+
+	// Place slots/weapons in the order you want them to show up
+	// SLOT NAME		// WEDGE WIDTH (must add up to 360)	
+	FLASHBANG				72
+	HEGRENADE				72
+	SMOKEGRENADE				72
+	DECOYGRENADE				72
+	MOLOTOV				        72
+	
+
+	//----- VALID SLOT NAMES -----//
+	
+	// [slot names]
+	//PISTOL	
+	//KNIFE
+	//RIFLE	
+	//UTILITY	
+	//BOOSTS
+	//C4
+	//GRENADES
+
+	// [individual items]
+	//FLASHBANG
+	//HEGRENADE
+	//SMOKEGRENADE
+	//DECOYGRENADE
+	//MOLOTOV
+}
