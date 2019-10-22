@@ -1,1 +1,1 @@
--high -threads 4 -tickrate 128 -language bananagaming -novid -cl_updaterate 128 -cl_cmdrate 128 +cl_updaterate 128 +fps_max 100 +fps_modern 28
+-high -threads 4 -tickrate 128 -language bananagaming -novid -cl_updaterate 128 -cl_cmdrate 128 +cl_updaterate 128 +fps_max 100 +fps_modern 28 -lowmemworkshop
