@@ -1,1 +1,1 @@
--high -threads 4 -tickrate 128 -language bananagaming -novid -cl_updaterate 128 -cl_cmdrate 128 +cl_updaterate 128 +fps_max 100 +fps_modern 28 -lowmemworkshop
+-novid -heapsize 2097152 -threads 4 -freq 60 -high -nojoy -tickrate128 -novid -processheap -noaafonts -language bananagaming -cl_updaterate 128 -cl_cmdrate 128 +cl_updaterate 128 +fps_max 100 +fps_modern 28 -lowmemworkshop

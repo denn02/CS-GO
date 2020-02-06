@@ -127,14 +127,14 @@
 				{
 					"hotkey"	"6"
 					"label"	"Раскидка гранат (ВКЛ)"
-					"cmd"	"sv_cheats 1; sv_grenade_trajectory 1; sv_grenade_trajectory_dash 1; sv_grenade_trajectory_thickness 1; sv_grenade_trajectory_time 10"
+					"cmd"	"sv_cheats 1; sv_grenade_trajectory 1; sv_grenade_trajectory_dash 1; sv_grenade_trajectory_thickness 1; sv_grenade_trajectory_time 10; cl_grenadepreview 1"
 				}
 				
 				"Trajectory0"
 				{
 					"hotkey"	"7"
 					"label"	"Раскидка гранат (ВЫКЛ)"
-					"cmd"	"sv_grenade_trajectory 0"
+					"cmd"	"sv_grenade_trajectory 0; cl_grenadepreview 0"
 				}
 				
 				"PVPTraining"
